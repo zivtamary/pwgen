@@ -1,7 +1,7 @@
 # Password Generator
 Node.js command line app to generate random passwords
 
-![alt text](https://i.imgur.com/4peUwQe.png)
+![alt text](https://i.imgur.com/cYGfcI6.png)
 ## Usage
 
 Install dependencies
