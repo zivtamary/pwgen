@@ -1,6 +1,6 @@
-## Node.js command line app to generate random passwords
-
-## How to use
+# Password Generator
+Node.js command line app to generate random passwords
+## Usage
 
 Install dependencies
 
